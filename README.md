@@ -3,7 +3,7 @@
 <param ve-config 
        title="Alice's Visual Essay"
        author="Alice McGrath"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://triarte.brynmawr.edu/Media/images/2010.30.148_BMC_f_2.jpg" 
+       banner="http://eyhayes.com/audubon/img/derivatives/iiif/obj25/manifest.json" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
