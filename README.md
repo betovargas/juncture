@@ -35,8 +35,8 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+Philadelphia is a wonderful place. 1 August.--I came up here an hour ago with Lucy, and we had a most interesting talk with my old friend and the two others who always come and join him. He is evidently the Sir Oracle of them, and I should think must have been in his time a most dictatorial person. He will not admit anything, and downfaces everybody. If he can't out-argue them he bullies them, and then takes their silence for agreement with his views. Lucy was looking sweetly pretty in her white lawn frock; she has got a beautiful colour since she has been here. I noticed that the old men did not lose any time in coming up and sitting near her when we sat down. She is so sweet with old people; I think they all fell in love with her on the spot. Even my old man succumbed and did not contradict her, but gave me double share instead. I got him on the subject of the legends, and he went off at once into a sort of sermon. I must try to remember it and put it down.
+<param ve-entity eid="Q1345">
 <param ve-map center="Q1345" zoom="11" prefer-geojson>
 
 ## Multiple viewers
@@ -45,7 +45,7 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+<param ve-map center="Q1345" zoom="11">
 
 # References
 
