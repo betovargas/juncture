@@ -14,6 +14,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q1345"> <!-- Philadelphia -->
 
+
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
@@ -38,6 +39,13 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 Philadelphia is a wonderful place. 1 August.--I came up here an hour ago with Lucy, and we had a most interesting talk with my old friend and the two others who always come and join him. He is evidently the Sir Oracle of them, and I should think must have been in his time a most dictatorial person. He will not admit anything, and downfaces everybody. If he can't out-argue them he bullies them, and then takes their silence for agreement with his views. Lucy was looking sweetly pretty in her white lawn frock; she has got a beautiful colour since she has been here. I noticed that the old men did not lose any time in coming up and sitting near her when we sat down. She is so sweet with old people; I think they all fell in love with her on the spot. Even my old man succumbed and did not contradict her, but gave me double share instead. I got him on the subject of the legends, and he went off at once into a sort of sermon. I must try to remember it and put it down.
 <param ve-entity eid="Q1345">
 <param ve-map center="Q1345" zoom="11" prefer-geojson>
+
+## Map with geojson 
+
+Philadelphia is a wonderful place. 1 August.--I came up here an hour ago with Lucy, and we had a most interesting talk with my old friend and the two others who always come and join him. He is evidently the Sir Oracle of them, and I should think must have been in his time a most dictatorial person. He will not admit anything, and downfaces everybody. If he can't out-argue them he bullies them, and then takes their silence for agreement with his views. Lucy was looking sweetly pretty in her white lawn frock; she has got a beautiful colour since she has been here. I noticed that the old men did not lose any time in coming up and sitting near her when we sat down. She is so sweet with old people; I think they all fell in love with her on the spot. Even my old man succumbed and did not contradict her, but gave me double share instead. I got him on the subject of the legends, and he went off at once into a sort of sermon. I must try to remember it and put it down.
+<param title="Philadelphia" eid="Q1345" fill="#E692D1">
+<param ve-map title="Philadelphia neighborhoods" center="Q1345" zoom="11" basemap="Esri_WorldPhysical">
+<param ve-map-layer geojson active title="Philadelphia neighborhoods" url="https://github.com/blackmad/neighborhoods/blob/master/philadelphia.geojson">
 
 ## Multiple viewers
 
